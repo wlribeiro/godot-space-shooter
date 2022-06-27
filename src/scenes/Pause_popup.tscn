@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=2]
 
 [ext_resource path="res://scripts/Pause_popup.gd" type="Script" id=1]
-[ext_resource path="res://sprites/Nebula Aqua-Pink.png" type="Texture" id=2]
+[ext_resource path="res://sprites/world/Nebula Aqua-Pink.png" type="Texture" id=2]
 
 [node name="Pause_popup" type="CanvasLayer"]
 pause_mode = 2
